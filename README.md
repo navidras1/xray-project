@@ -96,3 +96,14 @@ Nest is an MIT-licensed open source project. It can grow thanks to the sponsors 
 ## License
 
 Nest is [MIT licensed](https://github.com/nestjs/nest/blob/master/LICENSE).
+
+npm install --save @nestjs/swagger
+npm install @nestjs/microservices amqplib
+npm i @nestjs/mongoose mongoose
+
+npm install class-validator --save
+npm install class-transformer --save
+
+npm i @nestjs/mapped-types --save
+nest generate service XrayService
+nest generate controller XrayController
